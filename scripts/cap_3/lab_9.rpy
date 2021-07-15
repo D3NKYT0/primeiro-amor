@@ -2,5 +2,5 @@ label capitulo_9:
 
     "ainda nao tem nada..."
 
-    $persistent.cap_10 = True
+    # $persistent.cap_10 = True
     return

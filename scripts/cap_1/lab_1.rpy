@@ -248,5 +248,5 @@ label capitulo_1:
     me falante "{cps=20}rsrs!{/cps}"
 
     # fim do capitulo
-    $persistent.cap_2 = True
+    # $persistent.cap_2 = True
     return
